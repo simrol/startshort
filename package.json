@@ -1,0 +1,35 @@
+{
+  "name": "imageHosting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js --encoding utf-8",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.4",
+    "axios": "^1.4.0",
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^10.0.0",
+    "ejs": "^3.1.9",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.4.0",
+    "fs": "0.0.1-security",
+    "jquery": "^3.7.0",
+    "mongodb": "^5.6.0",
+    "mongoose": "^7.2.2",
+    "morgan": "^1.10.0",
+    "multer": "^1.4.3",
+    "node-fetch": "^3.3.1",
+    "simple-json-db": "^2.0.0",
+    "socket.io": "^4.6.2",
+    "utf8": "^3.0.0"
+  }
+}
